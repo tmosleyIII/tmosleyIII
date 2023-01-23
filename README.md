@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tillman 👋
 
+- 🔭 I’m currently working on something cool for the Stellar Network
 <!--
 **tmosleyIII/tmosleyIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
